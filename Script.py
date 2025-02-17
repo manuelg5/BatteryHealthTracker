@@ -100,7 +100,7 @@ try:
  
     # Formatting the plot
     plt.xlabel('Day')
-    plt.ylabel('Battery Voltage (V)')
+    plt.ylabel('Battery Percentage (%)')
     plt.title('Battery Percentage Trend Over Time')
     plt.xticks(rotation=45)
     plt.grid(True)
